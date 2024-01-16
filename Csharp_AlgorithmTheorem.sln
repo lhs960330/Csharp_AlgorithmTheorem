@@ -5,15 +5,17 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Csharp_AlgorithmTheorem", "Csharp_AlgorithmTheorem\Csharp_AlgorithmTheorem.csproj", "{AC2F456B-227D-4680-97B5-3647C2E14AD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00. Algorithm", "00. Algorithm\00. Algorithm.csproj", "{24A27282-8AA0-416F-B141-2512DBBBA302}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "00. Algorithm", "00. Algorithm\00. Algorithm.csproj", "{24A27282-8AA0-416F-B141-2512DBBBA302}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. List", "01. List\01. List.csproj", "{2CF6731A-A509-401E-A62B-61DBF093701C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. List", "01. List\01. List.csproj", "{2CF6731A-A509-401E-A62B-61DBF093701C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. LinkedList", "02. LinkedList\02. LinkedList.csproj", "{D88E9376-DD4D-4FC5-B2F0-20D28EFBD2A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. LinkedList", "02. LinkedList\02. LinkedList.csproj", "{D88E9376-DD4D-4FC5-B2F0-20D28EFBD2A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Stack", "03. Stack\03. Stack.csproj", "{8A13C96E-E9B4-416F-A2BB-FE6BB5F03ED6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Stack", "03. Stack\03. Stack.csproj", "{8A13C96E-E9B4-416F-A2BB-FE6BB5F03ED6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Queue", "04. Queue\04. Queue.csproj", "{9AF07D89-46F4-49A1-A4A9-AC7DCA855551}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Queue", "04. Queue\04. Queue.csproj", "{9AF07D89-46F4-49A1-A4A9-AC7DCA855551}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. BinarySearchTree", "05. BinarySearchTree\05. BinarySearchTree.csproj", "{E84FDB49-F677-4237-9E22-7FAE3B277017}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{9AF07D89-46F4-49A1-A4A9-AC7DCA855551}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AF07D89-46F4-49A1-A4A9-AC7DCA855551}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AF07D89-46F4-49A1-A4A9-AC7DCA855551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E84FDB49-F677-4237-9E22-7FAE3B277017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E84FDB49-F677-4237-9E22-7FAE3B277017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E84FDB49-F677-4237-9E22-7FAE3B277017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E84FDB49-F677-4237-9E22-7FAE3B277017}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
